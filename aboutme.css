@@ -1,0 +1,26 @@
+*{
+margin:0;
+padding:0;
+}
+#container{
+	background:#EAECEE  ;
+	width:950px;
+	
+	padding:10px;
+	margin:0 auto;
+	border: 1px solid black;
+}
+#left{
+	background:#white;
+	width:250px;
+	height:250px;
+	float:left;
+}
+
+
+#right{
+		background-image:url("back.jpg");
+	width:700px;
+	
+	float:left;
+}
